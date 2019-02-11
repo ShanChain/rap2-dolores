@@ -16,3 +16,5 @@ yarn-error.log*
 # css
 src/**/*.css
 build
+.idea
+package-lock.json

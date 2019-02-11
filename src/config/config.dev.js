@@ -1,7 +1,7 @@
 module.exports = {
-  serve: 'http://127.0.0.1:8080',
-  keys: ['some secret hurr'],
+  serve: 'http://127.0.0.1:8081',
+  keys: ['qianqianshijierap2'],
   session: {
-    key: 'koa:sess'
+    key: 'qianqianshijie:rap2:sess'
   }
 }
